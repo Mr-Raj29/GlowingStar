@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/glowingstar/static/css/main.021812f2.css",
+    "main.js": "/glowingstar/static/js/main.0c29e256.js",
+    "static/media/4.jpg": "/glowingstar/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/1.png": "/glowingstar/static/media/1.be8b49c0b6ca458b52f8.png",
+    "static/media/3.jpg": "/glowingstar/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/glowingstar/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/glowingstar/index.html",
+    "main.021812f2.css.map": "/glowingstar/static/css/main.021812f2.css.map",
+    "main.0c29e256.js.map": "/glowingstar/static/js/main.0c29e256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021812f2.css",
+    "static/js/main.0c29e256.js"
+  ]
+}
